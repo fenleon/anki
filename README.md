@@ -3,6 +3,11 @@
 [![CI](https://github.com/ChopinDavid/recall-lightos/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ChopinDavid/recall-lightos/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/ChopinDavid/recall-lightos/branch/main/graph/badge.svg)](https://codecov.io/gh/ChopinDavid/recall-lightos)
 
+<p align="center"><a href="https://ko-fi.com/fenleon">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="art/coffee-hand-filled-alpha-white-steam.png"><img src="art/coffee-hand-filled-alpha-white.png" alt="Hand holding Coffee" height="50" style="vertical-align: middle;"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="art/buy-me-a-coffee-alpha-white.png"><img src="art/buy-me-a-coffee-alpha-black.png" alt="Buy Me A Coffee" height="40" style="vertical-align: middle;"></picture>
+  <img src="art/ok-hand-filled-alpha-white.png" alt="OK Hand" height="50" style="vertical-align: middle;"></a></p>
+
 A review-only, [Anki](https://apps.ankiweb.net/)-compatible spaced-repetition client for **LightOS** (the Light Phone III), built on the [light-sdk](https://github.com/lightphone/light-sdk).
 
 *Working title. Not affiliated with Anki/Ankitects — "Anki" is used only to describe compatibility.*
@@ -45,3 +50,5 @@ Known limitations: content that requires a browser engine doesn't render (deck `
 ## License
 
 AGPL-3.0, like the Anki ecosystem it builds on.
+
+<p align="center">Support my work by leaving me a <a href="https://ko-fi.com/fenleon">tip</a> or <a href="https://github.com/sponsors/fenleon">sponsoring me</a>. A little goes a long way.</p>
